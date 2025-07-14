@@ -19,4 +19,4 @@ docker-compose up -d
 ## 📬 Contato
 
 Tem dúvidas ou sugestões? Ficarei feliz em ouvir você!
-📧 Entre em contato pelo e-mail: ceec@cesar.school
+📧 Entre em contato pelo e-mail: carloseduardoesposito@gmail.com
